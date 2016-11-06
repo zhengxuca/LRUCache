@@ -1,3 +1,3 @@
 # LRU Cache
 
-An implementation of last recently used cache
+An implementation of least recently used cache
